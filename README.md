@@ -47,7 +47,6 @@ For Windows users, you can use the provided `start.bat` script for a one-click s
    - Copy the default configuration if needed
    - Initialize Git submodules
    - Start the AI Companion server
-3. Once running, open your browser and go to http://localhost:8000
 
 ### Option 2: Manual Installation
 
