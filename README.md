@@ -10,7 +10,7 @@
 
 ## ⭐️ What is this project?
 
-**AI Companion – Human-Like Virtual Interactive Friend** is a unique **voice-interactive AI companion** that features a lively avatar and supports **real-time voice conversations**. All functionalities can run completely offline on your computer!
+**AI Companion – Human-Like Virtual Interactive Friend** is a unique **voice-interactive AI companion** that features a lively avatar and supports **real-time voice conversations**.
 
 You can treat it as your personal AI companion — whether you want a `virtual girlfriend`, `boyfriend`, `cute pet`, or any other character, it can meet your expectations. The project fully supports `Windows`, `macOS`, and `Linux`, and offers a web-based usage mode.
 
@@ -38,7 +38,24 @@ In terms of backend support, we have integrated the Grok API for powerful AI cap
 
 ## 🚀 Quick Start
 
-Please refer to the documentation for installation instructions.
+### Option 1: Quick Start with start.bat (Windows)
+
+For Windows users, you can use the provided `start.bat` script for a one-click setup and launch:
+
+1. Double-click on `start.bat` in the project root directory
+2. The script will automatically:
+   - Check for Python installation
+   - Install the `uv` package manager if not present
+   - Create and activate a virtual environment
+   - Install all required dependencies
+   - Copy the default configuration if needed
+   - Initialize Git submodules
+   - Start the AI Companion server
+3. Once running, open your browser and go to http://localhost:8000
+
+### Option 2: Manual Installation
+
+Please refer to the documentation for manual installation instructions.
 
 ## 📜 License
 
