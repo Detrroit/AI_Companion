@@ -1,9 +1,5 @@
 # AI Companion – Human-Like Virtual Interactive Friend
 
-<p align="center">
-  <img src="./assets/banner.jpg" alt="AI Companion Banner" width="100%">
-</p>
-
 <h3 align="center">
   Your personal AI companion with voice interaction and avatar support
 </h3>
