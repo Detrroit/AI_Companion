@@ -1,16 +1,12 @@
 # AI Companion – Human-Like Virtual Interactive Friend
 
-<p align="center">
-  <img src="./assets/banner.jpg" alt="AI Companion Banner" width="100%">
-</p>
-
 <h3 align="center">
   Your personal AI companion with voice interaction and avatar support
 </h3>
 
 ## ⭐️ What is this project?
 
-**AI Companion – Human-Like Virtual Interactive Friend** is a unique **voice-interactive AI companion** that features a lively avatar and supports **real-time voice conversations**. All functionalities can run completely offline on your computer!
+**AI Companion – Human-Like Virtual Interactive Friend** is a unique **voice-interactive AI companion** that features a lively avatar and supports **real-time voice conversations**. 
 
 You can treat it as your personal AI companion — whether you want a `virtual girlfriend`, `boyfriend`, `cute pet`, or any other character, it can meet your expectations. The project fully supports `Windows`, `macOS`, and `Linux`, and offers a web-based usage mode.
 
@@ -35,19 +31,3 @@ In terms of backend support, we have integrated the Grok API for powerful AI cap
 - 🔧 **Highly customizable**:
   - ⚙️ **Simple module configuration**: Switch various functional modules through simple configuration file modifications, without delving into the code
   - 🎨 **Character customization**: Shape your AI companion's persona by modifying the Prompt.
-
-## 🚀 Quick Start
-
-Please refer to the documentation for installation instructions.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read the contributing guidelines first.
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who have helped with the development of this project.
