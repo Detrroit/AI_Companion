@@ -34,7 +34,7 @@ In terms of backend support, we have integrated the Grok API for powerful AI cap
 
 ## 🚀 Quick Start
 
-### Option 1: Quick Start with start.bat (Windows)
+### Quick Start with start.bat (Windows)
 
 For Windows users, you can use the provided `start.bat` script for a one-click setup and launch:
 
@@ -47,19 +47,3 @@ For Windows users, you can use the provided `start.bat` script for a one-click s
    - Copy the default configuration if needed
    - Initialize Git submodules
    - Start the AI Companion server
-
-### Option 2: Manual Installation
-
-Please refer to the documentation for manual installation instructions.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read the contributing guidelines first.
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who have helped with the development of this project.
